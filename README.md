@@ -1,6 +1,6 @@
 # INDIAN PAINTINGS IMAGE CLASSIFICATION
 
-![TGGP]([https://github.com/HemaliPatel3/Analyse-Growth-and-Present-Insights-to-the-Telangana-Government/assets/81223796/4a9f9dda-de81-4107-86a0-d8c9403bc3d2](https://github.com/HemaliPatel3/Indian-Paintings-image-classification/blob/main/dataset-cover.jpg))
+![TGGP](https://github.com/HemaliPatel3/Indian-Paintings-image-classification/blob/main/dataset-cover.jpg)
 
 ## About Dataset : -
              https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset
